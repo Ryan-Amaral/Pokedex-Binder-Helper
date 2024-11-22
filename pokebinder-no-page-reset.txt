@@ -1,0 +1,1295 @@
+~~~~~~~~~~
+Generation 1
+~~~~~~~~~~
+
+Page: 1 (Front)
+#0001 - Bulbasaur: 1
+#0002 - Ivysaur: 2
+#0003 - Venusaur: 3
+#0004 - Charmander: 4
+#0005 - Charmeleon: 5
+#0006 - Charizard: 6
+#0007 - Squirtle: 7
+#0008 - Wartortle: 8
+#0009 - Blastoise: 9
+
+Page: 2 (Back)
+#0010 - Caterpie: 1
+#0011 - Metapod: 2
+#0012 - Butterfree: 3
+#0013 - Weedle: 4
+#0014 - Kakuna: 5
+#0015 - Beedrill: 6
+#0016 - Pidgey: 7
+#0017 - Pidgeotto: 8
+#0018 - Pidgeot: 9
+
+Page: 3 (Front)
+#0019 - Rattata: 1
+#0020 - Raticate: 2
+#0021 - Spearow: 3
+#0022 - Fearow: 4
+#0023 - Ekans: 5
+#0024 - Arbok: 6
+#0025 - Pikachu: 7
+#0026 - Raichu: 8
+#0027 - Sandshrew: 9
+
+Page: 4 (Back)
+#0028 - Sandslash: 1
+#0029 - Nidoran-f: 2
+#0030 - Nidorina: 3
+#0031 - Nidoqueen: 4
+#0032 - Nidoran-m: 5
+#0033 - Nidorino: 6
+#0034 - Nidoking: 7
+#0035 - Clefairy: 8
+#0036 - Clefable: 9
+
+Page: 5 (Front)
+#0037 - Vulpix: 1
+#0038 - Ninetales: 2
+#0039 - Jigglypuff: 3
+#0040 - Wigglytuff: 4
+#0041 - Zubat: 5
+#0042 - Golbat: 6
+#0043 - Oddish: 7
+#0044 - Gloom: 8
+#0045 - Vileplume: 9
+
+Page: 6 (Back)
+#0046 - Paras: 1
+#0047 - Parasect: 2
+#0048 - Venonat: 3
+#0049 - Venomoth: 4
+#0050 - Diglett: 5
+#0051 - Dugtrio: 6
+#0052 - Meowth: 7
+#0053 - Persian: 8
+#0054 - Psyduck: 9
+
+Page: 7 (Front)
+#0055 - Golduck: 1
+#0056 - Mankey: 2
+#0057 - Primeape: 3
+#0058 - Growlithe: 4
+#0059 - Arcanine: 5
+#0060 - Poliwag: 6
+#0061 - Poliwhirl: 7
+#0062 - Poliwrath: 8
+#0063 - Abra: 9
+
+Page: 8 (Back)
+#0064 - Kadabra: 1
+#0065 - Alakazam: 2
+#0066 - Machop: 3
+#0067 - Machoke: 4
+#0068 - Machamp: 5
+#0069 - Bellsprout: 6
+#0070 - Weepinbell: 7
+#0071 - Victreebel: 8
+#0072 - Tentacool: 9
+
+Page: 9 (Front)
+#0073 - Tentacruel: 1
+#0074 - Geodude: 2
+#0075 - Graveler: 3
+#0076 - Golem: 4
+#0077 - Ponyta: 5
+#0078 - Rapidash: 6
+#0079 - Slowpoke: 7
+#0080 - Slowbro: 8
+#0081 - Magnemite: 9
+
+Page: 10 (Back)
+#0082 - Magneton: 1
+#0083 - Farfetchd: 2
+#0084 - Doduo: 3
+#0085 - Dodrio: 4
+#0086 - Seel: 5
+#0087 - Dewgong: 6
+#0088 - Grimer: 7
+#0089 - Muk: 8
+#0090 - Shellder: 9
+
+Page: 11 (Front)
+#0091 - Cloyster: 1
+#0092 - Gastly: 2
+#0093 - Haunter: 3
+#0094 - Gengar: 4
+#0095 - Onix: 5
+#0096 - Drowzee: 6
+#0097 - Hypno: 7
+#0098 - Krabby: 8
+#0099 - Kingler: 9
+
+Page: 12 (Back)
+#0100 - Voltorb: 1
+#0101 - Electrode: 2
+#0102 - Exeggcute: 3
+#0103 - Exeggutor: 4
+#0104 - Cubone: 5
+#0105 - Marowak: 6
+#0106 - Hitmonlee: 7
+#0107 - Hitmonchan: 8
+#0108 - Lickitung: 9
+
+Page: 13 (Front)
+#0109 - Koffing: 1
+#0110 - Weezing: 2
+#0111 - Rhyhorn: 3
+#0112 - Rhydon: 4
+#0113 - Chansey: 5
+#0114 - Tangela: 6
+#0115 - Kangaskhan: 7
+#0116 - Horsea: 8
+#0117 - Seadra: 9
+
+Page: 14 (Back)
+#0118 - Goldeen: 1
+#0119 - Seaking: 2
+#0120 - Staryu: 3
+#0121 - Starmie: 4
+#0122 - Mr-mime: 5
+#0123 - Scyther: 6
+#0124 - Jynx: 7
+#0125 - Electabuzz: 8
+#0126 - Magmar: 9
+
+Page: 15 (Front)
+#0127 - Pinsir: 1
+#0128 - Tauros: 2
+#0129 - Magikarp: 3
+#0130 - Gyarados: 4
+#0131 - Lapras: 5
+#0132 - Ditto: 6
+#0133 - Eevee: 7
+#0134 - Vaporeon: 8
+#0135 - Jolteon: 9
+
+Page: 16 (Back)
+#0136 - Flareon: 1
+#0137 - Porygon: 2
+#0138 - Omanyte: 3
+#0139 - Omastar: 4
+#0140 - Kabuto: 5
+#0141 - Kabutops: 6
+#0142 - Aerodactyl: 7
+#0143 - Snorlax: 8
+#0144 - Articuno: 9
+
+Page: 17 (Front)
+#0145 - Zapdos: 1
+#0146 - Moltres: 2
+#0147 - Dratini: 3
+#0148 - Dragonair: 4
+#0149 - Dragonite: 5
+#0150 - Mewtwo: 6
+#0151 - Mew: 7
+
+~~~~~~~~~~
+Generation 2
+~~~~~~~~~~
+
+Page: 18 (Front)
+#0152 - Chikorita: 1
+#0153 - Bayleef: 2
+#0154 - Meganium: 3
+#0155 - Cyndaquil: 4
+#0156 - Quilava: 5
+#0157 - Typhlosion: 6
+#0158 - Totodile: 7
+#0159 - Croconaw: 8
+#0160 - Feraligatr: 9
+
+Page: 19 (Back)
+#0161 - Sentret: 1
+#0162 - Furret: 2
+#0163 - Hoothoot: 3
+#0164 - Noctowl: 4
+#0165 - Ledyba: 5
+#0166 - Ledian: 6
+#0167 - Spinarak: 7
+#0168 - Ariados: 8
+#0169 - Crobat: 9
+
+Page: 20 (Front)
+#0170 - Chinchou: 1
+#0171 - Lanturn: 2
+#0172 - Pichu: 3
+#0173 - Cleffa: 4
+#0174 - Igglybuff: 5
+#0175 - Togepi: 6
+#0176 - Togetic: 7
+#0177 - Natu: 8
+#0178 - Xatu: 9
+
+Page: 21 (Back)
+#0179 - Mareep: 1
+#0180 - Flaaffy: 2
+#0181 - Ampharos: 3
+#0182 - Bellossom: 4
+#0183 - Marill: 5
+#0184 - Azumarill: 6
+#0185 - Sudowoodo: 7
+#0186 - Politoed: 8
+#0187 - Hoppip: 9
+
+Page: 22 (Front)
+#0188 - Skiploom: 1
+#0189 - Jumpluff: 2
+#0190 - Aipom: 3
+#0191 - Sunkern: 4
+#0192 - Sunflora: 5
+#0193 - Yanma: 6
+#0194 - Wooper: 7
+#0195 - Quagsire: 8
+#0196 - Espeon: 9
+
+Page: 23 (Back)
+#0197 - Umbreon: 1
+#0198 - Murkrow: 2
+#0199 - Slowking: 3
+#0200 - Misdreavus: 4
+#0201 - Unown: 5
+#0202 - Wobbuffet: 6
+#0203 - Girafarig: 7
+#0204 - Pineco: 8
+#0205 - Forretress: 9
+
+Page: 24 (Front)
+#0206 - Dunsparce: 1
+#0207 - Gligar: 2
+#0208 - Steelix: 3
+#0209 - Snubbull: 4
+#0210 - Granbull: 5
+#0211 - Qwilfish: 6
+#0212 - Scizor: 7
+#0213 - Shuckle: 8
+#0214 - Heracross: 9
+
+Page: 25 (Back)
+#0215 - Sneasel: 1
+#0216 - Teddiursa: 2
+#0217 - Ursaring: 3
+#0218 - Slugma: 4
+#0219 - Magcargo: 5
+#0220 - Swinub: 6
+#0221 - Piloswine: 7
+#0222 - Corsola: 8
+#0223 - Remoraid: 9
+
+Page: 26 (Front)
+#0224 - Octillery: 1
+#0225 - Delibird: 2
+#0226 - Mantine: 3
+#0227 - Skarmory: 4
+#0228 - Houndour: 5
+#0229 - Houndoom: 6
+#0230 - Kingdra: 7
+#0231 - Phanpy: 8
+#0232 - Donphan: 9
+
+Page: 27 (Back)
+#0233 - Porygon2: 1
+#0234 - Stantler: 2
+#0235 - Smeargle: 3
+#0236 - Tyrogue: 4
+#0237 - Hitmontop: 5
+#0238 - Smoochum: 6
+#0239 - Elekid: 7
+#0240 - Magby: 8
+#0241 - Miltank: 9
+
+Page: 28 (Front)
+#0242 - Blissey: 1
+#0243 - Raikou: 2
+#0244 - Entei: 3
+#0245 - Suicune: 4
+#0246 - Larvitar: 5
+#0247 - Pupitar: 6
+#0248 - Tyranitar: 7
+#0249 - Lugia: 8
+#0250 - Ho-oh: 9
+
+Page: 29 (Back)
+#0251 - Celebi: 1
+
+~~~~~~~~~~
+Generation 3
+~~~~~~~~~~
+
+Page: 30 (Front)
+#0252 - Treecko: 1
+#0253 - Grovyle: 2
+#0254 - Sceptile: 3
+#0255 - Torchic: 4
+#0256 - Combusken: 5
+#0257 - Blaziken: 6
+#0258 - Mudkip: 7
+#0259 - Marshtomp: 8
+#0260 - Swampert: 9
+
+Page: 31 (Back)
+#0261 - Poochyena: 1
+#0262 - Mightyena: 2
+#0263 - Zigzagoon: 3
+#0264 - Linoone: 4
+#0265 - Wurmple: 5
+#0266 - Silcoon: 6
+#0267 - Beautifly: 7
+#0268 - Cascoon: 8
+#0269 - Dustox: 9
+
+Page: 32 (Front)
+#0270 - Lotad: 1
+#0271 - Lombre: 2
+#0272 - Ludicolo: 3
+#0273 - Seedot: 4
+#0274 - Nuzleaf: 5
+#0275 - Shiftry: 6
+#0276 - Taillow: 7
+#0277 - Swellow: 8
+#0278 - Wingull: 9
+
+Page: 33 (Back)
+#0279 - Pelipper: 1
+#0280 - Ralts: 2
+#0281 - Kirlia: 3
+#0282 - Gardevoir: 4
+#0283 - Surskit: 5
+#0284 - Masquerain: 6
+#0285 - Shroomish: 7
+#0286 - Breloom: 8
+#0287 - Slakoth: 9
+
+Page: 34 (Front)
+#0288 - Vigoroth: 1
+#0289 - Slaking: 2
+#0290 - Nincada: 3
+#0291 - Ninjask: 4
+#0292 - Shedinja: 5
+#0293 - Whismur: 6
+#0294 - Loudred: 7
+#0295 - Exploud: 8
+#0296 - Makuhita: 9
+
+Page: 35 (Back)
+#0297 - Hariyama: 1
+#0298 - Azurill: 2
+#0299 - Nosepass: 3
+#0300 - Skitty: 4
+#0301 - Delcatty: 5
+#0302 - Sableye: 6
+#0303 - Mawile: 7
+#0304 - Aron: 8
+#0305 - Lairon: 9
+
+Page: 36 (Front)
+#0306 - Aggron: 1
+#0307 - Meditite: 2
+#0308 - Medicham: 3
+#0309 - Electrike: 4
+#0310 - Manectric: 5
+#0311 - Plusle: 6
+#0312 - Minun: 7
+#0313 - Volbeat: 8
+#0314 - Illumise: 9
+
+Page: 37 (Back)
+#0315 - Roselia: 1
+#0316 - Gulpin: 2
+#0317 - Swalot: 3
+#0318 - Carvanha: 4
+#0319 - Sharpedo: 5
+#0320 - Wailmer: 6
+#0321 - Wailord: 7
+#0322 - Numel: 8
+#0323 - Camerupt: 9
+
+Page: 38 (Front)
+#0324 - Torkoal: 1
+#0325 - Spoink: 2
+#0326 - Grumpig: 3
+#0327 - Spinda: 4
+#0328 - Trapinch: 5
+#0329 - Vibrava: 6
+#0330 - Flygon: 7
+#0331 - Cacnea: 8
+#0332 - Cacturne: 9
+
+Page: 39 (Back)
+#0333 - Swablu: 1
+#0334 - Altaria: 2
+#0335 - Zangoose: 3
+#0336 - Seviper: 4
+#0337 - Lunatone: 5
+#0338 - Solrock: 6
+#0339 - Barboach: 7
+#0340 - Whiscash: 8
+#0341 - Corphish: 9
+
+Page: 40 (Front)
+#0342 - Crawdaunt: 1
+#0343 - Baltoy: 2
+#0344 - Claydol: 3
+#0345 - Lileep: 4
+#0346 - Cradily: 5
+#0347 - Anorith: 6
+#0348 - Armaldo: 7
+#0349 - Feebas: 8
+#0350 - Milotic: 9
+
+Page: 41 (Back)
+#0351 - Castform: 1
+#0352 - Kecleon: 2
+#0353 - Shuppet: 3
+#0354 - Banette: 4
+#0355 - Duskull: 5
+#0356 - Dusclops: 6
+#0357 - Tropius: 7
+#0358 - Chimecho: 8
+#0359 - Absol: 9
+
+Page: 42 (Front)
+#0360 - Wynaut: 1
+#0361 - Snorunt: 2
+#0362 - Glalie: 3
+#0363 - Spheal: 4
+#0364 - Sealeo: 5
+#0365 - Walrein: 6
+#0366 - Clamperl: 7
+#0367 - Huntail: 8
+#0368 - Gorebyss: 9
+
+Page: 43 (Back)
+#0369 - Relicanth: 1
+#0370 - Luvdisc: 2
+#0371 - Bagon: 3
+#0372 - Shelgon: 4
+#0373 - Salamence: 5
+#0374 - Beldum: 6
+#0375 - Metang: 7
+#0376 - Metagross: 8
+#0377 - Regirock: 9
+
+Page: 44 (Front)
+#0378 - Regice: 1
+#0379 - Registeel: 2
+#0380 - Latias: 3
+#0381 - Latios: 4
+#0382 - Kyogre: 5
+#0383 - Groudon: 6
+#0384 - Rayquaza: 7
+#0385 - Jirachi: 8
+#0386 - Deoxys-normal: 9
+
+~~~~~~~~~~
+Generation 4
+~~~~~~~~~~
+
+Page: 45 (Front)
+#0387 - Turtwig: 1
+#0388 - Grotle: 2
+#0389 - Torterra: 3
+#0390 - Chimchar: 4
+#0391 - Monferno: 5
+#0392 - Infernape: 6
+#0393 - Piplup: 7
+#0394 - Prinplup: 8
+#0395 - Empoleon: 9
+
+Page: 46 (Back)
+#0396 - Starly: 1
+#0397 - Staravia: 2
+#0398 - Staraptor: 3
+#0399 - Bidoof: 4
+#0400 - Bibarel: 5
+#0401 - Kricketot: 6
+#0402 - Kricketune: 7
+#0403 - Shinx: 8
+#0404 - Luxio: 9
+
+Page: 47 (Front)
+#0405 - Luxray: 1
+#0406 - Budew: 2
+#0407 - Roserade: 3
+#0408 - Cranidos: 4
+#0409 - Rampardos: 5
+#0410 - Shieldon: 6
+#0411 - Bastiodon: 7
+#0412 - Burmy: 8
+#0413 - Wormadam-plant: 9
+
+Page: 48 (Back)
+#0414 - Mothim: 1
+#0415 - Combee: 2
+#0416 - Vespiquen: 3
+#0417 - Pachirisu: 4
+#0418 - Buizel: 5
+#0419 - Floatzel: 6
+#0420 - Cherubi: 7
+#0421 - Cherrim: 8
+#0422 - Shellos: 9
+
+Page: 49 (Front)
+#0423 - Gastrodon: 1
+#0424 - Ambipom: 2
+#0425 - Drifloon: 3
+#0426 - Drifblim: 4
+#0427 - Buneary: 5
+#0428 - Lopunny: 6
+#0429 - Mismagius: 7
+#0430 - Honchkrow: 8
+#0431 - Glameow: 9
+
+Page: 50 (Back)
+#0432 - Purugly: 1
+#0433 - Chingling: 2
+#0434 - Stunky: 3
+#0435 - Skuntank: 4
+#0436 - Bronzor: 5
+#0437 - Bronzong: 6
+#0438 - Bonsly: 7
+#0439 - Mime-jr: 8
+#0440 - Happiny: 9
+
+Page: 51 (Front)
+#0441 - Chatot: 1
+#0442 - Spiritomb: 2
+#0443 - Gible: 3
+#0444 - Gabite: 4
+#0445 - Garchomp: 5
+#0446 - Munchlax: 6
+#0447 - Riolu: 7
+#0448 - Lucario: 8
+#0449 - Hippopotas: 9
+
+Page: 52 (Back)
+#0450 - Hippowdon: 1
+#0451 - Skorupi: 2
+#0452 - Drapion: 3
+#0453 - Croagunk: 4
+#0454 - Toxicroak: 5
+#0455 - Carnivine: 6
+#0456 - Finneon: 7
+#0457 - Lumineon: 8
+#0458 - Mantyke: 9
+
+Page: 53 (Front)
+#0459 - Snover: 1
+#0460 - Abomasnow: 2
+#0461 - Weavile: 3
+#0462 - Magnezone: 4
+#0463 - Lickilicky: 5
+#0464 - Rhyperior: 6
+#0465 - Tangrowth: 7
+#0466 - Electivire: 8
+#0467 - Magmortar: 9
+
+Page: 54 (Back)
+#0468 - Togekiss: 1
+#0469 - Yanmega: 2
+#0470 - Leafeon: 3
+#0471 - Glaceon: 4
+#0472 - Gliscor: 5
+#0473 - Mamoswine: 6
+#0474 - Porygon-z: 7
+#0475 - Gallade: 8
+#0476 - Probopass: 9
+
+Page: 55 (Front)
+#0477 - Dusknoir: 1
+#0478 - Froslass: 2
+#0479 - Rotom: 3
+#0480 - Uxie: 4
+#0481 - Mesprit: 5
+#0482 - Azelf: 6
+#0483 - Dialga: 7
+#0484 - Palkia: 8
+#0485 - Heatran: 9
+
+Page: 56 (Back)
+#0486 - Regigigas: 1
+#0487 - Giratina-altered: 2
+#0488 - Cresselia: 3
+#0489 - Phione: 4
+#0490 - Manaphy: 5
+#0491 - Darkrai: 6
+#0492 - Shaymin-land: 7
+#0493 - Arceus: 8
+
+~~~~~~~~~~
+Generation 5
+~~~~~~~~~~
+
+Page: 57 (Front)
+#0494 - Victini: 1
+#0495 - Snivy: 2
+#0496 - Servine: 3
+#0497 - Serperior: 4
+#0498 - Tepig: 5
+#0499 - Pignite: 6
+#0500 - Emboar: 7
+#0501 - Oshawott: 8
+#0502 - Dewott: 9
+
+Page: 58 (Back)
+#0503 - Samurott: 1
+#0504 - Patrat: 2
+#0505 - Watchog: 3
+#0506 - Lillipup: 4
+#0507 - Herdier: 5
+#0508 - Stoutland: 6
+#0509 - Purrloin: 7
+#0510 - Liepard: 8
+#0511 - Pansage: 9
+
+Page: 59 (Front)
+#0512 - Simisage: 1
+#0513 - Pansear: 2
+#0514 - Simisear: 3
+#0515 - Panpour: 4
+#0516 - Simipour: 5
+#0517 - Munna: 6
+#0518 - Musharna: 7
+#0519 - Pidove: 8
+#0520 - Tranquill: 9
+
+Page: 60 (Back)
+#0521 - Unfezant: 1
+#0522 - Blitzle: 2
+#0523 - Zebstrika: 3
+#0524 - Roggenrola: 4
+#0525 - Boldore: 5
+#0526 - Gigalith: 6
+#0527 - Woobat: 7
+#0528 - Swoobat: 8
+#0529 - Drilbur: 9
+
+Page: 61 (Front)
+#0530 - Excadrill: 1
+#0531 - Audino: 2
+#0532 - Timburr: 3
+#0533 - Gurdurr: 4
+#0534 - Conkeldurr: 5
+#0535 - Tympole: 6
+#0536 - Palpitoad: 7
+#0537 - Seismitoad: 8
+#0538 - Throh: 9
+
+Page: 62 (Back)
+#0539 - Sawk: 1
+#0540 - Sewaddle: 2
+#0541 - Swadloon: 3
+#0542 - Leavanny: 4
+#0543 - Venipede: 5
+#0544 - Whirlipede: 6
+#0545 - Scolipede: 7
+#0546 - Cottonee: 8
+#0547 - Whimsicott: 9
+
+Page: 63 (Front)
+#0548 - Petilil: 1
+#0549 - Lilligant: 2
+#0550 - Basculin-red-striped: 3
+#0551 - Sandile: 4
+#0552 - Krokorok: 5
+#0553 - Krookodile: 6
+#0554 - Darumaka: 7
+#0555 - Darmanitan-standard: 8
+#0556 - Maractus: 9
+
+Page: 64 (Back)
+#0557 - Dwebble: 1
+#0558 - Crustle: 2
+#0559 - Scraggy: 3
+#0560 - Scrafty: 4
+#0561 - Sigilyph: 5
+#0562 - Yamask: 6
+#0563 - Cofagrigus: 7
+#0564 - Tirtouga: 8
+#0565 - Carracosta: 9
+
+Page: 65 (Front)
+#0566 - Archen: 1
+#0567 - Archeops: 2
+#0568 - Trubbish: 3
+#0569 - Garbodor: 4
+#0570 - Zorua: 5
+#0571 - Zoroark: 6
+#0572 - Minccino: 7
+#0573 - Cinccino: 8
+#0574 - Gothita: 9
+
+Page: 66 (Back)
+#0575 - Gothorita: 1
+#0576 - Gothitelle: 2
+#0577 - Solosis: 3
+#0578 - Duosion: 4
+#0579 - Reuniclus: 5
+#0580 - Ducklett: 6
+#0581 - Swanna: 7
+#0582 - Vanillite: 8
+#0583 - Vanillish: 9
+
+Page: 67 (Front)
+#0584 - Vanilluxe: 1
+#0585 - Deerling: 2
+#0586 - Sawsbuck: 3
+#0587 - Emolga: 4
+#0588 - Karrablast: 5
+#0589 - Escavalier: 6
+#0590 - Foongus: 7
+#0591 - Amoonguss: 8
+#0592 - Frillish: 9
+
+Page: 68 (Back)
+#0593 - Jellicent: 1
+#0594 - Alomomola: 2
+#0595 - Joltik: 3
+#0596 - Galvantula: 4
+#0597 - Ferroseed: 5
+#0598 - Ferrothorn: 6
+#0599 - Klink: 7
+#0600 - Klang: 8
+#0601 - Klinklang: 9
+
+Page: 69 (Front)
+#0602 - Tynamo: 1
+#0603 - Eelektrik: 2
+#0604 - Eelektross: 3
+#0605 - Elgyem: 4
+#0606 - Beheeyem: 5
+#0607 - Litwick: 6
+#0608 - Lampent: 7
+#0609 - Chandelure: 8
+#0610 - Axew: 9
+
+Page: 70 (Back)
+#0611 - Fraxure: 1
+#0612 - Haxorus: 2
+#0613 - Cubchoo: 3
+#0614 - Beartic: 4
+#0615 - Cryogonal: 5
+#0616 - Shelmet: 6
+#0617 - Accelgor: 7
+#0618 - Stunfisk: 8
+#0619 - Mienfoo: 9
+
+Page: 71 (Front)
+#0620 - Mienshao: 1
+#0621 - Druddigon: 2
+#0622 - Golett: 3
+#0623 - Golurk: 4
+#0624 - Pawniard: 5
+#0625 - Bisharp: 6
+#0626 - Bouffalant: 7
+#0627 - Rufflet: 8
+#0628 - Braviary: 9
+
+Page: 72 (Back)
+#0629 - Vullaby: 1
+#0630 - Mandibuzz: 2
+#0631 - Heatmor: 3
+#0632 - Durant: 4
+#0633 - Deino: 5
+#0634 - Zweilous: 6
+#0635 - Hydreigon: 7
+#0636 - Larvesta: 8
+#0637 - Volcarona: 9
+
+Page: 73 (Front)
+#0638 - Cobalion: 1
+#0639 - Terrakion: 2
+#0640 - Virizion: 3
+#0641 - Tornadus-incarnate: 4
+#0642 - Thundurus-incarnate: 5
+#0643 - Reshiram: 6
+#0644 - Zekrom: 7
+#0645 - Landorus-incarnate: 8
+#0646 - Kyurem: 9
+
+Page: 74 (Back)
+#0647 - Keldeo-ordinary: 1
+#0648 - Meloetta-aria: 2
+#0649 - Genesect: 3
+
+~~~~~~~~~~
+Generation 6
+~~~~~~~~~~
+
+Page: 75 (Front)
+#0650 - Chespin: 1
+#0651 - Quilladin: 2
+#0652 - Chesnaught: 3
+#0653 - Fennekin: 4
+#0654 - Braixen: 5
+#0655 - Delphox: 6
+#0656 - Froakie: 7
+#0657 - Frogadier: 8
+#0658 - Greninja: 9
+
+Page: 76 (Back)
+#0659 - Bunnelby: 1
+#0660 - Diggersby: 2
+#0661 - Fletchling: 3
+#0662 - Fletchinder: 4
+#0663 - Talonflame: 5
+#0664 - Scatterbug: 6
+#0665 - Spewpa: 7
+#0666 - Vivillon: 8
+#0667 - Litleo: 9
+
+Page: 77 (Front)
+#0668 - Pyroar: 1
+#0669 - Flabebe: 2
+#0670 - Floette: 3
+#0671 - Florges: 4
+#0672 - Skiddo: 5
+#0673 - Gogoat: 6
+#0674 - Pancham: 7
+#0675 - Pangoro: 8
+#0676 - Furfrou: 9
+
+Page: 78 (Back)
+#0677 - Espurr: 1
+#0678 - Meowstic-male: 2
+#0679 - Honedge: 3
+#0680 - Doublade: 4
+#0681 - Aegislash-shield: 5
+#0682 - Spritzee: 6
+#0683 - Aromatisse: 7
+#0684 - Swirlix: 8
+#0685 - Slurpuff: 9
+
+Page: 79 (Front)
+#0686 - Inkay: 1
+#0687 - Malamar: 2
+#0688 - Binacle: 3
+#0689 - Barbaracle: 4
+#0690 - Skrelp: 5
+#0691 - Dragalge: 6
+#0692 - Clauncher: 7
+#0693 - Clawitzer: 8
+#0694 - Helioptile: 9
+
+Page: 80 (Back)
+#0695 - Heliolisk: 1
+#0696 - Tyrunt: 2
+#0697 - Tyrantrum: 3
+#0698 - Amaura: 4
+#0699 - Aurorus: 5
+#0700 - Sylveon: 6
+#0701 - Hawlucha: 7
+#0702 - Dedenne: 8
+#0703 - Carbink: 9
+
+Page: 81 (Front)
+#0704 - Goomy: 1
+#0705 - Sliggoo: 2
+#0706 - Goodra: 3
+#0707 - Klefki: 4
+#0708 - Phantump: 5
+#0709 - Trevenant: 6
+#0710 - Pumpkaboo-average: 7
+#0711 - Gourgeist-average: 8
+#0712 - Bergmite: 9
+
+Page: 82 (Back)
+#0713 - Avalugg: 1
+#0714 - Noibat: 2
+#0715 - Noivern: 3
+#0716 - Xerneas: 4
+#0717 - Yveltal: 5
+#0718 - Zygarde-50: 6
+#0719 - Diancie: 7
+#0720 - Hoopa: 8
+#0721 - Volcanion: 9
+
+~~~~~~~~~~
+Generation 7
+~~~~~~~~~~
+
+Page: 83 (Front)
+#0722 - Rowlet: 1
+#0723 - Dartrix: 2
+#0724 - Decidueye: 3
+#0725 - Litten: 4
+#0726 - Torracat: 5
+#0727 - Incineroar: 6
+#0728 - Popplio: 7
+#0729 - Brionne: 8
+#0730 - Primarina: 9
+
+Page: 84 (Back)
+#0731 - Pikipek: 1
+#0732 - Trumbeak: 2
+#0733 - Toucannon: 3
+#0734 - Yungoos: 4
+#0735 - Gumshoos: 5
+#0736 - Grubbin: 6
+#0737 - Charjabug: 7
+#0738 - Vikavolt: 8
+#0739 - Crabrawler: 9
+
+Page: 85 (Front)
+#0740 - Crabominable: 1
+#0741 - Oricorio-baile: 2
+#0742 - Cutiefly: 3
+#0743 - Ribombee: 4
+#0744 - Rockruff: 5
+#0745 - Lycanroc-midday: 6
+#0746 - Wishiwashi-solo: 7
+#0747 - Mareanie: 8
+#0748 - Toxapex: 9
+
+Page: 86 (Back)
+#0749 - Mudbray: 1
+#0750 - Mudsdale: 2
+#0751 - Dewpider: 3
+#0752 - Araquanid: 4
+#0753 - Fomantis: 5
+#0754 - Lurantis: 6
+#0755 - Morelull: 7
+#0756 - Shiinotic: 8
+#0757 - Salandit: 9
+
+Page: 87 (Front)
+#0758 - Salazzle: 1
+#0759 - Stufful: 2
+#0760 - Bewear: 3
+#0761 - Bounsweet: 4
+#0762 - Steenee: 5
+#0763 - Tsareena: 6
+#0764 - Comfey: 7
+#0765 - Oranguru: 8
+#0766 - Passimian: 9
+
+Page: 88 (Back)
+#0767 - Wimpod: 1
+#0768 - Golisopod: 2
+#0769 - Sandygast: 3
+#0770 - Palossand: 4
+#0771 - Pyukumuku: 5
+#0772 - Type-null: 6
+#0773 - Silvally: 7
+#0774 - Minior-red-meteor: 8
+#0775 - Komala: 9
+
+Page: 89 (Front)
+#0776 - Turtonator: 1
+#0777 - Togedemaru: 2
+#0778 - Mimikyu-disguised: 3
+#0779 - Bruxish: 4
+#0780 - Drampa: 5
+#0781 - Dhelmise: 6
+#0782 - Jangmo-o: 7
+#0783 - Hakamo-o: 8
+#0784 - Kommo-o: 9
+
+Page: 90 (Back)
+#0785 - Tapu-koko: 1
+#0786 - Tapu-lele: 2
+#0787 - Tapu-bulu: 3
+#0788 - Tapu-fini: 4
+#0789 - Cosmog: 5
+#0790 - Cosmoem: 6
+#0791 - Solgaleo: 7
+#0792 - Lunala: 8
+#0793 - Nihilego: 9
+
+Page: 91 (Front)
+#0794 - Buzzwole: 1
+#0795 - Pheromosa: 2
+#0796 - Xurkitree: 3
+#0797 - Celesteela: 4
+#0798 - Kartana: 5
+#0799 - Guzzlord: 6
+#0800 - Necrozma: 7
+#0801 - Magearna: 8
+#0802 - Marshadow: 9
+
+Page: 92 (Back)
+#0803 - Poipole: 1
+#0804 - Naganadel: 2
+#0805 - Stakataka: 3
+#0806 - Blacephalon: 4
+#0807 - Zeraora: 5
+#0808 - Meltan: 6
+#0809 - Melmetal: 7
+
+~~~~~~~~~~
+Generation 8
+~~~~~~~~~~
+
+Page: 93 (Front)
+#0810 - Grookey: 1
+#0811 - Thwackey: 2
+#0812 - Rillaboom: 3
+#0813 - Scorbunny: 4
+#0814 - Raboot: 5
+#0815 - Cinderace: 6
+#0816 - Sobble: 7
+#0817 - Drizzile: 8
+#0818 - Inteleon: 9
+
+Page: 94 (Back)
+#0819 - Skwovet: 1
+#0820 - Greedent: 2
+#0821 - Rookidee: 3
+#0822 - Corvisquire: 4
+#0823 - Corviknight: 5
+#0824 - Blipbug: 6
+#0825 - Dottler: 7
+#0826 - Orbeetle: 8
+#0827 - Nickit: 9
+
+Page: 95 (Front)
+#0828 - Thievul: 1
+#0829 - Gossifleur: 2
+#0830 - Eldegoss: 3
+#0831 - Wooloo: 4
+#0832 - Dubwool: 5
+#0833 - Chewtle: 6
+#0834 - Drednaw: 7
+#0835 - Yamper: 8
+#0836 - Boltund: 9
+
+Page: 96 (Back)
+#0837 - Rolycoly: 1
+#0838 - Carkol: 2
+#0839 - Coalossal: 3
+#0840 - Applin: 4
+#0841 - Flapple: 5
+#0842 - Appletun: 6
+#0843 - Silicobra: 7
+#0844 - Sandaconda: 8
+#0845 - Cramorant: 9
+
+Page: 97 (Front)
+#0846 - Arrokuda: 1
+#0847 - Barraskewda: 2
+#0848 - Toxel: 3
+#0849 - Toxtricity-amped: 4
+#0850 - Sizzlipede: 5
+#0851 - Centiskorch: 6
+#0852 - Clobbopus: 7
+#0853 - Grapploct: 8
+#0854 - Sinistea: 9
+
+Page: 98 (Back)
+#0855 - Polteageist: 1
+#0856 - Hatenna: 2
+#0857 - Hattrem: 3
+#0858 - Hatterene: 4
+#0859 - Impidimp: 5
+#0860 - Morgrem: 6
+#0861 - Grimmsnarl: 7
+#0862 - Obstagoon: 8
+#0863 - Perrserker: 9
+
+Page: 99 (Front)
+#0864 - Cursola: 1
+#0865 - Sirfetchd: 2
+#0866 - Mr-rime: 3
+#0867 - Runerigus: 4
+#0868 - Milcery: 5
+#0869 - Alcremie: 6
+#0870 - Falinks: 7
+#0871 - Pincurchin: 8
+#0872 - Snom: 9
+
+Page: 100 (Back)
+#0873 - Frosmoth: 1
+#0874 - Stonjourner: 2
+#0875 - Eiscue-ice: 3
+#0876 - Indeedee-male: 4
+#0877 - Morpeko-full-belly: 5
+#0878 - Cufant: 6
+#0879 - Copperajah: 7
+#0880 - Dracozolt: 8
+#0881 - Arctozolt: 9
+
+Page: 101 (Front)
+#0882 - Dracovish: 1
+#0883 - Arctovish: 2
+#0884 - Duraludon: 3
+#0885 - Dreepy: 4
+#0886 - Drakloak: 5
+#0887 - Dragapult: 6
+#0888 - Zacian: 7
+#0889 - Zamazenta: 8
+#0890 - Eternatus: 9
+
+Page: 102 (Back)
+#0891 - Kubfu: 1
+#0892 - Urshifu-single-strike: 2
+#0893 - Zarude: 3
+#0894 - Regieleki: 4
+#0895 - Regidrago: 5
+#0896 - Glastrier: 6
+#0897 - Spectrier: 7
+#0898 - Calyrex: 8
+#0899 - Wyrdeer: 9
+
+Page: 103 (Front)
+#0900 - Kleavor: 1
+#0901 - Ursaluna: 2
+#0902 - Basculegion-male: 3
+#0903 - Sneasler: 4
+#0904 - Overqwil: 5
+#0905 - Enamorus-incarnate: 6
+
+~~~~~~~~~~
+Generation 9
+~~~~~~~~~~
+
+Page: 104 (Front)
+#0906 - Sprigatito: 1
+#0907 - Floragato: 2
+#0908 - Meowscarada: 3
+#0909 - Fuecoco: 4
+#0910 - Crocalor: 5
+#0911 - Skeledirge: 6
+#0912 - Quaxly: 7
+#0913 - Quaxwell: 8
+#0914 - Quaquaval: 9
+
+Page: 105 (Back)
+#0915 - Lechonk: 1
+#0916 - Oinkologne-male: 2
+#0917 - Tarountula: 3
+#0918 - Spidops: 4
+#0919 - Nymble: 5
+#0920 - Lokix: 6
+#0921 - Pawmi: 7
+#0922 - Pawmo: 8
+#0923 - Pawmot: 9
+
+Page: 106 (Front)
+#0924 - Tandemaus: 1
+#0925 - Maushold-family-of-four: 2
+#0926 - Fidough: 3
+#0927 - Dachsbun: 4
+#0928 - Smoliv: 5
+#0929 - Dolliv: 6
+#0930 - Arboliva: 7
+#0931 - Squawkabilly-green-plumage: 8
+#0932 - Nacli: 9
+
+Page: 107 (Back)
+#0933 - Naclstack: 1
+#0934 - Garganacl: 2
+#0935 - Charcadet: 3
+#0936 - Armarouge: 4
+#0937 - Ceruledge: 5
+#0938 - Tadbulb: 6
+#0939 - Bellibolt: 7
+#0940 - Wattrel: 8
+#0941 - Kilowattrel: 9
+
+Page: 108 (Front)
+#0942 - Maschiff: 1
+#0943 - Mabosstiff: 2
+#0944 - Shroodle: 3
+#0945 - Grafaiai: 4
+#0946 - Bramblin: 5
+#0947 - Brambleghast: 6
+#0948 - Toedscool: 7
+#0949 - Toedscruel: 8
+#0950 - Klawf: 9
+
+Page: 109 (Back)
+#0951 - Capsakid: 1
+#0952 - Scovillain: 2
+#0953 - Rellor: 3
+#0954 - Rabsca: 4
+#0955 - Flittle: 5
+#0956 - Espathra: 6
+#0957 - Tinkatink: 7
+#0958 - Tinkatuff: 8
+#0959 - Tinkaton: 9
+
+Page: 110 (Front)
+#0960 - Wiglett: 1
+#0961 - Wugtrio: 2
+#0962 - Bombirdier: 3
+#0963 - Finizen: 4
+#0964 - Palafin-zero: 5
+#0965 - Varoom: 6
+#0966 - Revavroom: 7
+#0967 - Cyclizar: 8
+#0968 - Orthworm: 9
+
+Page: 111 (Back)
+#0969 - Glimmet: 1
+#0970 - Glimmora: 2
+#0971 - Greavard: 3
+#0972 - Houndstone: 4
+#0973 - Flamigo: 5
+#0974 - Cetoddle: 6
+#0975 - Cetitan: 7
+#0976 - Veluza: 8
+#0977 - Dondozo: 9
+
+Page: 112 (Front)
+#0978 - Tatsugiri-curly: 1
+#0979 - Annihilape: 2
+#0980 - Clodsire: 3
+#0981 - Farigiraf: 4
+#0982 - Dudunsparce-two-segment: 5
+#0983 - Kingambit: 6
+#0984 - Great-tusk: 7
+#0985 - Scream-tail: 8
+#0986 - Brute-bonnet: 9
+
+Page: 113 (Back)
+#0987 - Flutter-mane: 1
+#0988 - Slither-wing: 2
+#0989 - Sandy-shocks: 3
+#0990 - Iron-treads: 4
+#0991 - Iron-bundle: 5
+#0992 - Iron-hands: 6
+#0993 - Iron-jugulis: 7
+#0994 - Iron-moth: 8
+#0995 - Iron-thorns: 9
+
+Page: 114 (Front)
+#0996 - Frigibax: 1
+#0997 - Arctibax: 2
+#0998 - Baxcalibur: 3
+#0999 - Gimmighoul: 4
+#1000 - Gholdengo: 5
+#1001 - Wo-chien: 6
+#1002 - Chien-pao: 7
+#1003 - Ting-lu: 8
+#1004 - Chi-yu: 9
+
+Page: 115 (Back)
+#1005 - Roaring-moon: 1
+#1006 - Iron-valiant: 2
+#1007 - Koraidon: 3
+#1008 - Miraidon: 4
+#1009 - Walking-wake: 5
+#1010 - Iron-leaves: 6
+#1011 - Dipplin: 7
+#1012 - Poltchageist: 8
+#1013 - Sinistcha: 9
+
+Page: 116 (Front)
+#1014 - Okidogi: 1
+#1015 - Munkidori: 2
+#1016 - Fezandipiti: 3
+#1017 - Ogerpon: 4
+#1018 - Archaludon: 5
+#1019 - Hydrapple: 6
+#1020 - Gouging-fire: 7
+#1021 - Raging-bolt: 8
+#1022 - Iron-boulder: 9
+
+Page: 117 (Back)
+#1023 - Iron-crown: 1
+#1024 - Terapagos: 2
+#1025 - Pecharunt: 3
+
