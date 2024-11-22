@@ -2,6 +2,7 @@
 Pokédex binder guide for where on each page to place each card.
 
 For the final guide see [pokebinder.txt](./pokebinder.txt), for the code that generated it see [pokebinder.py](./pokebinder.py).
+There is also a text file for a version without page resets each generation: [pokebinder-no-page-reset.txt](./pokebinder-no-page-reset.txt)
 
 ## An experiment and cautionary tale with Chat-GPT code generation
 Chat-GPT was prompted for the initial code [chatgpt_out.py](./chatgpt_out.py), which gave the output [chatgpt-out.py](./chatgpt-out.py).
