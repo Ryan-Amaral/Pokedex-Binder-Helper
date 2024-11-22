@@ -8,4 +8,5 @@ Chat-GPT was prompted for the initial code [chatgpt_out.py](./chatgpt_out.py), w
 Unsurprisingly there were some issues with this code, and updates/customizations were easier to do myself.
 Though it did a great job of introducing me to [PokéAPI](https://pokeapi.co/) with a functioning API call.
 Moral of the story is, Chat-GPT is great for idea generation and for giving a starting point, but should not be treated as a source of objective truth, and good code that does what you want will require some knowledge/effort on your behalf.
-The advice I like to give is *treat Chat-GPT and similar tools as search engines (and sometimes as a starting point / idea generator)*.
+
+The advice I like to give is **TREAT CHAT-GPT AND SIMILAR TOOLS AS SEARCH ENGINES (and sometimes as a starting point / idea generator)**.
